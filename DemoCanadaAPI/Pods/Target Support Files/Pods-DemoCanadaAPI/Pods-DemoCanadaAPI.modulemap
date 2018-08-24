@@ -1,0 +1,6 @@
+framework module Pods_DemoCanadaAPI {
+  umbrella header "Pods-DemoCanadaAPI-umbrella.h"
+
+  export *
+  module * { export * }
+}
